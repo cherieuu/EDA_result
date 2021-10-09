@@ -81,7 +81,7 @@
 ### 1.2 결과
 
 1. [프로젝트 결과물](https://github.com/cherieuu/Project_result/blob/master/%5BJuju%5D%20Team%20project/%5BJuju%5DMANITO%20%EC%A3%BC%EB%A6%B0%EC%9D%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%84%9C%EB%B9%84%EC%8A%A4%20.pdf)
-2. [프론트엔드 디자인 by 유화영](https://www.figma.com/proto/AtZ8uBWXJXz7pjFZW5zirJ/Juju_kiki?page-id=4%3A3&node-id=1683%3A15166&viewport=501%2C48%2C0.38&scaling=min-zoom&starting-point-node-id=1683%3A15166&show-proto-sidebar=1)
+2. [프론트엔드 디자인 by 유화영](https://www.figma.com/proto/AtZ8uBWXJXz7pjFZW5zirJ/Juju_kiki?page-id=4%3A3&node-id=4%3A3&viewport=501%2C48%2C0.31&scaling=scale-down&starting-point-node-id=1683%3A15166&show-proto-sidebar=1)
 
 
 
