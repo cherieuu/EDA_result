@@ -19,7 +19,7 @@
 
 ### 1.2 결과
 
-1. [우수상 수상]
+1. [우수상 수상](https://github.com/cherieuu/Project_result/blob/master/%5B%EA%B7%B8%EC%95%8C%5D%20Team%20project/%5B%EA%B7%B8%EC%95%8C%5D%EC%9A%B0%EC%88%98%EC%83%81.pdf)
 2. [프로젝트 결과물](https://github.com/cherieuu/EDA_result/blob/master/%5B%EA%B7%B8%EC%95%8C%5D%EC%BD%98%ED%85%90%EC%B8%A0%20%ED%9D%A5%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B6%84%EC%84%9D(%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EB%A5%BC%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C).pdf)
 
 
